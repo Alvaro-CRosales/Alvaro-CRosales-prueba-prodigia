@@ -86,5 +86,3 @@ app.listen(port, () => {
 // input: aguas, par, rayo, carro, paraguas, parquimetro, metro
 // output: paraguas
 
-//armando.sierra@prodigia.com.mx
-//arturo.rodriguez@prodigia.com.mx
